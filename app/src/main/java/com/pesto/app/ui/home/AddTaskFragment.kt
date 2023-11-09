@@ -116,17 +116,7 @@ class AddTaskFragment(private val task: Task? = null) : BottomSheetDialogFragmen
             return false
         }
 
-        // Validate due date
-        if (date.isEmpty()) {
-            binding.dueDateDropdown.error = "Please select a due date"
-            return false
-        }
 
-        // Validate location
-        if (location.isEmpty()) {
-            binding.locationTextField.error = "Please enter a task location"
-            return false
-        }
 
         return true
     }
