@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454972538902",
+    "project_id": "pesto-tech",
+    "storage_bucket": "pesto-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454972538902:android:b9c734ca9e7a031477b537",
+        "android_client_info": {
+          "package_name": "com.pesto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW63wgdExFaaYafpzEaiGm5NQc4b0M70M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
